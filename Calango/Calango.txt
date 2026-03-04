@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> Calango </title>
+</head>
+<body>
+<a href="file:///C:/Users/cryst/Downloads/Site%20Capivara/index.html"Confira a oferta – Minecraft com até 25% de desconto" data-aem-contentname="primary-cta" target="_self" tabindex="0" data-bi-id="n1c1c2c1c2c1c1c2c1c1c1c1m1r1a3" data-bi-ct="button" data-bi-cn="primary-cta" data-bi-ecn="primary-cta" data-bi-hn="Minecraft com até 25% de desconto" data-bi-sn="0" data-bi-bhvr="PARTNERREFERRAL" data-bi-prtnm="minecraft store">
+                                                    <span><----Voltar</span>
+                                                </a>
+<h1> Calango </h1>
+<p> </p>
+<iframe id="ruffle_embed" scrolling="no" mozallowfullscreen="true" msallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" allowtransparency="true" allow="autoplay; clipboard-read; clipboard-write; fullscreen *; microphone; camera; midi" frameborder="0" style="width: 640px; height: 480px; border: none; overflow: hidden;" src="https://uploads.ungrounded.net/ruffle_wrapper/ruffleembed.html?v=1.2.2&amp;browsermode=default&amp;props=%7B%22ruffle%22%3A%22%2Fruffle_wrapper%2Flib%2Fruffle.js%3F1758082538%22%2C%22public_path%22%3A%22%2Fruffle_wrapper%2Flib%2F%22%2C%22swf%22%3A%22https%3A%2F%2Fuploads.ungrounded.net%2Ftmp%2F7045000%2F7045117%2Ffile%2F0bdc894a1758321764.swf%3F1758321764%22%2C%22vars%22%3A%7B%22NewgroundsAPI_PublisherID%22%3A1%2C%22NewgroundsAPI_SandboxID%22%3A%2268cddc673f4e3%22%2C%22NewgroundsAPI_SessionID%22%3A%2245KxzSbifS19fKBl8hgK042dc888376e9b51da3873ab6232ead5648de78fOP9u%22%2C%22NewgroundsAPI_UserName%22%3A%22ArquivosArquivos2121%22%2C%22NewgroundsAPI_UserID%22%3A27183298%2C%22ng_username%22%3A%22ArquivosArquivos2121%22%7D%2C%22width%22%3A640%2C%22height%22%3A480%2C%22icon%22%3A%22https%3A%2F%2Fuploads.ungrounded.net%2Ftmp%2F7045000%2F7045117%2Ficon%2F7045117_card.webp%3Ff1758321726%22%2C%22warnOnUnsupportedContent%22%3Afalse%2C%22external%22%3A%22%2Fruffle_wrapper%2Fexternal%2Fruffle-external-input.js%3F1758278093%22%7D">
+    </iframe>
+<p> Meu primeiro Flash </p>
+<p> 25/5/25 </p>
+</body>
+</html>
