@@ -1,4 +1,4 @@
-<html><head>     <style>
+<html><head>    <style>
         body {
             background-color: #1e1e1e;
             color: white; /* cor do texto */
@@ -7,15 +7,27 @@
     </style> <link rel="icon" type="image/png" href="icone.png">
  <title> Site Capivara </title> <link rel="icon" type="image/png" href="icone.png">
  <style type="text/css" id="operaUserStyle"></style></head>
+	<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 <body>
+
+	<div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:1300px; height:120px">
+		<canvas id="canvas" width="1300" height="120" style="position: absolute; display: block; background-color: rgb(255, 255, 255); width: 1300px; height: 120px;"></canvas>
+		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:1300px; height:120px; position: absolute; left: 0px; top: 0px; display: block;">
+		</div>
+	</div>
+
+<div id="preloadjs-container" style="visibility: hidden; position: absolute; height: 10px; width: 10px; overflow: hidden; transform: translate(-10px, -10px);"></div>
+
+
 <div class="pod-body breakout" id="embed_podcontent">
 
 			<div id="embed_wrapper" style="width: 477px; margin-left: 50%; height: 180px;">
 				<div id="embed_sizer" style="height: 180px; width: 910px; margin-left: -455px;"><div class="text-align-center">
-    <iframe id="ruffle_embed" scrolling="no" mozallowfullscreen="true" msallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" allowtransparency="true" allow="autoplay; clipboard-read; clipboard-write; fullscreen *; microphone; camera; midi" frameborder="0" style="width: 910px; height: 84px; border: none; overflow: hidden;" src="https://uploads.ungrounded.net/ruffle_wrapper/ruffleembed.html?v=1.2.2&amp;browsermode=default&amp;props=%7B%22ruffle%22%3A%22%2Fruffle_wrapper%2Flib%2Fruffle.js%3F1766466972%22%2C%22public_path%22%3A%22%2Fruffle_wrapper%2Flib%2F%22%2C%22swf%22%3A%22https%3A%2F%2Fuploads.ungrounded.net%2Ftmp%2F7312000%2F7312397%2Ffile%2Fb91056671766778878.swf%3F1766778878%22%2C%22vars%22%3A%7B%22NewgroundsAPI_PublisherID%22%3A1%2C%22NewgroundsAPI_SandboxID%22%3A%22694ee7ffe36f7%22%2C%22NewgroundsAPI_SessionID%22%3A%22dDfxkcHKbMxh3CbsJOYqb819307aca25e15de65c89192d76f88bb1f2dd92TrnX%22%2C%22NewgroundsAPI_UserName%22%3A%22CapivaraNewgrounds23%22%2C%22NewgroundsAPI_UserID%22%3A27694111%2C%22ng_username%22%3A%22CapivaraNewgrounds23%22%7D%2C%22width%22%3A910%2C%22height%22%3A84%2C%22icon%22%3A%22https%3A%2F%2Fuploads.ungrounded.net%2Ftmp%2F7312000%2F7312397%2Ficon%2F7312397_card.webp%3Ff1766778649%22%2C%22warnOnUnsupportedContent%22%3Afalse%2C%22external%22%3A%22%2Fruffle_wrapper%2Fexternal%2Fruffle-external-input.js%3F1766527498%22%7D">
-    </iframe>
+
 </div>
 
+
+					
 <h1> Site Capivara </h1><h1> 
 </h1><h2> Geral </h2>
 <h3> Oi eu sou o Miguel e gosto de fazer jogos e animações </h3>
